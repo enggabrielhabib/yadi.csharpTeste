@@ -1,0 +1,180 @@
+C:\Users\gabriel.habib\source\repos\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\gabriel.habib\source\repos\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\gabriel.habib\source\repos\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\gabriel.habib\source\repos\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.habib\source\repos\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\gabriel.habib\source\repos\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\gabriel.habib\source\repos\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Desktop\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Desktop\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Desktop\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Desktop\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Desktop\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Desktop\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Desktop\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\EnzoFurlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\EnzoFurlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\EnzoFurlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\EnzoFurlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\YADI.JAVA TO CSHARP\yadi.csharp projeto Vs\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\EnzoFurlan\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\EnzoFurlan\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\EnzoFurlan\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\EnzoFurlan\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Desktop\New folder\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Desktop\New folder\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Desktop\New folder\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Desktop\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Desktop\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Desktop\New folder\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Desktop\New folder\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Downloads\New folder (1)\New folder\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Downloads\New folder (1)\New folder\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\EnzoFurlan\Downloads\New folder (1)\New folder\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\EnzoFurlan\Downloads\New folder (1)\New folder\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\javax-crypto.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\local_policy.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\US_export_policy.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.Runtime.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\javax-crypto.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\local_policy.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\US_export_policy.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.Runtime.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\javax-crypto.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\local_policy.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\US_export_policy.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.Runtime.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.dll.config
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\bin\Debug\yadi.csharp.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\yadi.csharp\obj\Debug\yadi.csharp.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.dll.config
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.CodeAnalysisLog.xml
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.lastcodeanalysissucceeded
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe.config
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.pdb
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.exe
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Debug\yadi.csharp.pdb

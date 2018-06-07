@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yadi.csharp", "yadi.csharp\yadi.csharp.csproj", "{5940FBA3-0267-46B7-B912-E759A7788615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yadi.dlms.test", "UnitTestProject1\yadi.dlms.test.csproj", "{E49BB946-370A-46F5-8EFD-5067D56A45DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5940FBA3-0267-46B7-B912-E759A7788615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5940FBA3-0267-46B7-B912-E759A7788615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5940FBA3-0267-46B7-B912-E759A7788615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5940FBA3-0267-46B7-B912-E759A7788615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E49BB946-370A-46F5-8EFD-5067D56A45DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49BB946-370A-46F5-8EFD-5067D56A45DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49BB946-370A-46F5-8EFD-5067D56A45DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49BB946-370A-46F5-8EFD-5067D56A45DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18433C64-56B5-418E-97AC-D9C8338F2D72}
+	EndGlobalSection
+EndGlobal

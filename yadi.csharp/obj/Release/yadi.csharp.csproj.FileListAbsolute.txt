@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Release\yadi.csharp.exe.config
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Release\yadi.csharp.exe
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Release\yadi.csharp.pdb
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Release\yadi.csharp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Release\yadi.csharp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Release\yadi.csharp.exe
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\obj\Release\yadi.csharp.pdb

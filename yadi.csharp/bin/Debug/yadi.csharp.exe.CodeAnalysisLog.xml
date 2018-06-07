@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files\microsoft visual studio\2017\enterprise\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
+ <Targets>
+  <Target Name="C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\bin\Debug\yadi.csharp.exe">
+   <Modules>
+    <Module Name="yadi.csharp.exe">
+     <Namespaces>
+      <Namespace Name="yadi.dlms">
+       <Types>
+        <Type Name="DlmsException" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="NonBreaking">
+           <Issue Certainty="95" Level="Error">Add [Serializable] to 'DlmsException' as this type implements ISerializable.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="ImageTransferException" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="NonBreaking">
+           <Issue Certainty="95" Level="Error">Add [Serializable] to 'ImageTransferException' as this type implements ISerializable.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="yadi.dlms.cosem">
+       <Types>
+        <Type Name="CosemConnection+DataBlock" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="NonBreaking">
+           <Issue Name="NonBreaking" Certainty="95" Level="CriticalError">Implement IDisposable on 'CosemConnection.DataBlock' because it creates members of the following IDisposable types: 'MemoryStream'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="CosemParameters+DataBlock" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implement IDisposable on 'CosemParameters.DataBlock' because it creates members of the following IDisposable types: 'MemoryStream'. If 'CosemParameters.DataBlock' has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="Security" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#aesGcmReverse(System.Byte[],System.Byte[],yadi.dlms.cosem.CosemParameters,yadi.dlms.cosem.CosemConnection)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Do not dispose objects multiple times" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.dlms.cosem" File="Security.cs" Line="184">Object 'cipherStream' can be disposed more than once in method 'Security.aesGcmReverse(byte[], byte[], CosemParameters, CosemConnection)'. To avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.: Lines: 184</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="yadi.dlms.linklayer">
+       <Types>
+        <Type Name="HdlcLinkLayer" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implement IDisposable on 'HdlcLinkLayer' because it creates members of the following IDisposable types: 'MemoryStream'. If 'HdlcLinkLayer' has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="LinkLayerException" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="NonBreaking">
+           <Issue Certainty="95" Level="Error">Add [Serializable] to 'LinkLayerException' as this type implements ISerializable.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="yadi.dlms.phylayer">
+       <Types>
+        <Type Name="PhyLayerException" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="NonBreaking">
+           <Issue Certainty="95" Level="Error">Add [Serializable] to 'PhyLayerException' as this type implements ISerializable.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="SerialPhyLayer" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2018-06-06 16:20:06Z" FixCategory="DependsOnFix">
+           <Issue Name="DependsOnFix" Certainty="95" Level="CriticalError">Implement IDisposable on 'SerialPhyLayer' because it creates members of the following IDisposable types: 'SerialPort', 'MemoryStream'. If 'SerialPhyLayer' has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="Do not dispose objects multiple times" Category="Microsoft.Usage" CheckId="CA2202">
+   <Name>Do not dispose objects multiple times</Name>
+   <Description>A correctly implemented Dispose method can be called multiple times without throwing an exception. However, this is not guaranteed and to avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.</Description>
+   <Resolution Name="Default">Object {0} can be disposed more than once in method {1}. To avoid generating a System.ObjectDisposedException you should not call Dispose more than one time on an object.: Lines: 184</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182334.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkISerializableTypesWithSerializable" Category="Microsoft.Usage" CheckId="CA2237">
+   <Name>Mark ISerializable types with SerializableAttribute</Name>
+   <Description>The System.Runtime.Serialization.ISerializable interface allows the type to customize its serialization, while the Serializable attribute enables the runtime to recognize the type as being serializable.</Description>
+   <Resolution Name="Default">Add [Serializable] to {0} as this type implements ISerializable.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182350.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Types that own disposable fields should be disposable</Name>
+   <Description>Types that declare disposable members should also implement IDisposable. If the type does not own any unmanaged resources, do not implement a finalizer on it.</Description>
+   <Resolution Name="DependsOnFix">Implement IDisposable on {0} because it creates members of the following IDisposable types: {1}. If {0} has previously shipped, adding new members that implement IDisposable to this type is considered a breaking change to existing consumers.</Resolution>
+   <Resolution Name="NonBreaking">Implement IDisposable on {0} because it creates members of the following IDisposable types: {1}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="15.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

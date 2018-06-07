@@ -1,0 +1,219 @@
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Desktop\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.Runtime.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\enzo.furlan\Downloads\New folder (1)\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.Runtime.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Downloads\New folder\New folder\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Desktop\yadicsharp\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.dll
+C:\Users\EnzoFurlan\Downloads\New folder (9)\New folder\New folder\New folder\New folder\UnitTestProject1\bin\Debug\yadi.csharp.dll.config
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.dll.config
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\EnzoFurlan\Downloads\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.dll.config
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.exe
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.dll.config
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.exe.config
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\EnzoFurlan\Downloads\yadi.csharp (1)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.exe
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.dll.config
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.exe.config
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\enzo.furlan\Downloads\yadi.csharp (2)\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.exe
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.pdb
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.dll.config
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\yadi.csharp.exe.config
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\yadi.dlms.test.csproj.CopyComplete
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestYadiCsharp.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\UnitTestYadiCsharp.pdb
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestYadiCsharp.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\obj\Debug\UnitTestYadiCsharp.pdb
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\nunit.engine.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\nunit.engine.api.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\Mono.Cecil.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\nunit.framework.pdb
+C:\Users\Usuario\Desktop\yadi.csharp\yadi.csharp\yadi.csharp\UnitTestProject1\bin\Debug\nunit.framework.xml
